@@ -35,3 +35,4 @@ MIT
 * Autoclean (move + delete old folders)
 * Cleanup (or move?) ableton analysis files in src directory
 * Implement `click` for better toolability.
+* Differentiate between `one_shot`s and `loop`s
