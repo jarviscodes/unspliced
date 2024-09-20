@@ -4,6 +4,16 @@ Sick and tired of having 5000 unsorted samples in your sound library?
 
 This tool will attempt to sort them properly according to file name, which should do the trick for MOST samples coming from Splice.
 
+**Before Unspliced:**
+
+![Before](images/before_unspliced.png)
+
+**After Unspliced:**
+
+![After](images/after_unspliced.png)
+
+
+
 # Disclaimer
 Very much WIP, don't break your projects with this :-) Contributions, PR's, Issues are welcome.
 
